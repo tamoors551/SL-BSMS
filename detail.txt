@@ -1,0 +1,40 @@
+Features
+Admin-Side
+Secure Login/Logout
+Home Page
+Summary
+Inventory/Available Stocks List
+Restock Products
+Maintenance
+Add New Category
+List All Categories
+View Category Details
+Update Category Details
+Update Category Status
+Delete Category
+Manage Product
+Add New Product
+List All Products
+View Product Details
+Update Product Details
+Delete Product
+Manage Stocks
+Add New Stock
+List All Stocks
+View Stock Details
+Update Stock Details
+Delete Stock
+Point of Sale
+Generate Printable Receipt
+Generate Printable Date-wise Sales Report
+Manage User List (CRUD)
+Manage Account Credentials
+Admin-Side
+Secure Login/Logout
+Home Page
+Summary
+Inventory/Available Stocks List
+Point of Sale
+Generate Printable Receipt
+Generate Printable Date-wise Sales Report of their Transactions
+Manage Account Credentials
